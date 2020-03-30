@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+}
+
+.jumbotron {
+    background-color: lightsteelblue;
+    border-bottom: 5px solid black;
+}
+
+footer {
+    background-color: lightsteelblue;
+    height: 50px;
+    border-top: 5px solid black;
+    width: 100%;
+    padding: 0;
+    margin-top: 25px;
+}
+
+.saveBtn {
+    background-color: lightsteelblue;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-left: 1px solid black;
+}
+
+.saveBtn:hover {
+    font-size: 20px;
+    transition: all .3s ease-in-out;
+    background-color: lightgrey;
+}
+
+.hour {
+    background-color: lightsteelblue;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-right: 1px solid black;
+}
+
+.row {
+    padding: 4px;
+}
+
+
