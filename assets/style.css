@@ -22,6 +22,7 @@ footer {
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
     border-left: 1px solid black;
+    font-weight: bold;
 }
 
 .saveBtn:hover {
@@ -35,6 +36,8 @@ footer {
     border-top-left-radius: 15px;
     border-bottom-left-radius: 15px;
     border-right: 1px solid black;
+    padding-top: 15px;
+    font-weight: bold;
 }
 
 .row {
