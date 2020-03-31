@@ -26,3 +26,7 @@ As an employee with a busy schedule, a user can add important events to the plan
 * w3Schools
 
 <img width="1005" alt="Screen Shot 2020-03-30 at 11 30 19 PM" src="https://user-images.githubusercontent.com/60335249/77990472-af71d300-72de-11ea-9b17-18245cb39248.png">
+
+## Github Links
+* https://shobes1421.github.io/Day-Planner/.
+* https://github.com/Shobes1421/Day-Planner
